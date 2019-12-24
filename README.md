@@ -1,37 +1,18 @@
-## Welcome to GitHub Pages
+## StamPkamp
 
-You can use the [editor on GitHub](https://github.com/ijskolibrietje/StamPkamp/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Welkom op de website voor StamPkamp 2020. Deze zal plaatsvinden in de week voor HIT namelijk van 3-5 April aan de MariaHoeve in Papenvoort.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Wat is StamP?
 
-### Markdown
+StamP is een kamp voor en door de Drentse stammen, leiding en vrijwilligers. Geïnspireerd door ExAct willen wij samen met alle groepen een super leuk en gezellig programma neerzetten, dat wordt ingevuld en uitgevoerd door alle deelnemers. Met natuurlijk aan het eind van de avond een fantastisch feest!
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Praktische informatie
 
-```markdown
-Syntax highlighted code block
+- Datum:   3 - 5 April
+- Locatie: Mariahoeve in Papenvoort
+- Kosten:  €25
 
-# Header 1
-## Header 2
-### Header 3
+### Leuk hoor maar wat moet ik allemaal meenemen?
 
-- Bulleted
-- List
+Naast alle gebruikelijke kampeerspullen moet je ook zelf voor ontbijt en lunch zorgen, en tevens moet je een barbecue meenemen, het vlees wordt wel door ons verzorgd!
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ijskolibrietje/StamPkamp/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
