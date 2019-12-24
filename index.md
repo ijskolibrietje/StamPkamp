@@ -3,7 +3,7 @@ layout: default
 title: StamP 2020
 ---
 
-
+![StamPlogo](/images/logo.gif)
 
 ## StamPkamp
 
