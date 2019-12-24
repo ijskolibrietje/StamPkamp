@@ -1,3 +1,10 @@
+---
+layout: default
+title: StamP 2020
+---
+
+
+
 ## StamPkamp
 
 Welkom op de website voor StamPkamp 2020. Deze zal plaatsvinden in de week voor HIT namelijk van 3-5 April aan de MariaHoeve in Papenvoort.
