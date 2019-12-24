@@ -4,7 +4,7 @@ title: StamP 2020
 ---
 
 ![StamPlogo](images/logo.gif)
-{:height="250px" width="250px"}
+{:height="50px" width="50px"}
 
 ## StamPkamp
 
