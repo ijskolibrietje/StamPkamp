@@ -11,11 +11,13 @@ header:
     - label: "opgave"
       url: "https://github.com/mmistakes/minimal-mistakes/"
 
-excerpt: "Bacon ipsum dolor sit amet salami ham hock ham, hamburger corned beef short ribs kielbasa biltong t-bone drumstick tri-tip tail sirloin pork chop."
+excerpt: "Glamping op de camping"
 ---
 
 
-Welkom op de website voor StamPkamp 2020. Deze zal plaatsvinden in de week voor HIT namelijk van 3-5 April aan de MariaHoeve in Papenvoort.
+Dit jaar zijn alle vrijwilligers van scouting regio Drenthe het spuugzat van het primitief kamperen, houtjes sprokkelen en vies jodiumwater drinken. Daarom landen wij dit jaar gezamelijk in een luxe 5-sterren all-inclusive hotelbeleving in Papenvoort-city. Nadat er wereldsterren zoals Beyonce en Brad Pitt hebben vertoefd zijn nu wij aan de beurt. De porta-potti heeft nog nooit zo geglimd! 
+
+Naar het succes van ExAct is StamP een kamp voor Drentse stammen en vrijwilligers, volledig ingevuld door de deelnemers zelf. Wil je ook mee? geef je vooral op!
 
 ### Wat is StamP?
 
@@ -31,3 +33,6 @@ StamP is een kamp voor en door de Drentse stammen, leiding en vrijwilligers. Ge√
 
 Naast alle gebruikelijke kampeerspullen moet je ook zelf voor ontbijt en lunch zorgen, en tevens moet je een barbecue meenemen, het vlees wordt wel door ons verzorgd!
 
+### Is er nog meer dat ik moet weten?
+
+bij zijn = meemaken
