@@ -1,9 +1,12 @@
 ---
 layout: default
 title: StamP 2020
+header:
+  overlay_image: assets/images/photo-of-a-man-sitting-outside-the-tent-2612228.jpg
+  caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
 ---
 
-![StamPlogo](images/logo.gif)
+![StamPlogo](assets/images/logo.png)
 {:height="50px" width="50px"}
 
 ## StamPkamp
