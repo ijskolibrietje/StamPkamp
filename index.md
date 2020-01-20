@@ -1,15 +1,19 @@
 ---
-layout: default
+layout: single
+classes:
+    - splash
 title: StamP 2020
 header:
+  overlay_color: "#000"
+  overlay_filter: "0.5"
   overlay_image: assets/images/photo-of-a-man-sitting-outside-the-tent-2612228.jpg
-  caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
+  actions:
+    - label: "opgave"
+      url: "https://github.com/mmistakes/minimal-mistakes/"
+
+excerpt: "Bacon ipsum dolor sit amet salami ham hock ham, hamburger corned beef short ribs kielbasa biltong t-bone drumstick tri-tip tail sirloin pork chop."
 ---
 
-![StamPlogo](assets/images/logo.png)
-{:height="50px" width="50px"}
-
-## StamPkamp
 
 Welkom op de website voor StamPkamp 2020. Deze zal plaatsvinden in de week voor HIT namelijk van 3-5 April aan de MariaHoeve in Papenvoort.
 
