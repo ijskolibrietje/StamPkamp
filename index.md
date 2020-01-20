@@ -27,6 +27,8 @@ StamP is een kamp voor en door de Drentse stammen, leiding en vrijwilligers. Ge√
 - Locatie: Mariahoeve in Papenvoort
 - Kosten:  ‚Ç¨25
 
+![Kaart](/assets/images/kaart.png)
+
 ### Leuk hoor maar wat moet ik allemaal meenemen?
 
 Naast alle gebruikelijke kampeerspullen moet je ook zelf voor ontbijt en lunch zorgen, en tevens moet je een barbecue meenemen, het vlees wordt wel door ons verzorgd!
