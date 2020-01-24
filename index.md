@@ -9,7 +9,7 @@ header:
   overlay_image: assets/images/photo-of-a-man-sitting-outside-the-tent-2612228.jpg
   actions:
     - label: "opgave"
-      url: "https://github.com/mmistakes/minimal-mistakes/"
+      url: "https://forms.gle/CemdXsKtUcrPrtV8A"
 
 excerpt: "Glamping op de camping"
 ---
@@ -27,7 +27,7 @@ StamP is een kamp voor en door de Drentse stammen, leiding en vrijwilligers. Ge√
 - Locatie: Mariahoeve in Papenvoort
 - Kosten:  ‚Ç¨25
 
-![Kaart](/assets/images/kaart.png)
+![kaart](/assets/images/kaart.png)
 
 ### Leuk hoor maar wat moet ik allemaal meenemen?
 
